@@ -1,0 +1,32 @@
+nav {
+    background-color: #FFB4B0;
+    width: 100%;
+    border: 2px solid black;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+
+.selectBars {
+    background-color: #4DD7FA;
+    border: 2px solid black;
+    margin-top: 10%;
+    width: 50%;
+    padding: 10% 100% 100% 10%;
+}
+
+aside {
+    float: left;
+
+}
+
+article {
+    background-color: #FEFAC0;
+    border: 2px solid black;
+    float: right;
+    margin: 2%;
+    padding: 5% 16% 15% 16%;
+}
